@@ -58,4 +58,5 @@ Os logs são extraídos no host e montados no container conforme o esquema:
 # Meu Projeto Wazuh
 
 Aqui está o dashboard que configurei: 
-![Wazuh Dashboard](screenshot.png)
+![Wazuh Dashboard](/home/eran/wazuh-docker/single-node
+/screenshot.png)
