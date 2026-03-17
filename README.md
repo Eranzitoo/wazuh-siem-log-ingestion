@@ -58,4 +58,4 @@ Os logs são extraídos no host e montados no container conforme o esquema:
 # Meu Projeto Wazuh
 
 Aqui está o dashboard que configurei: 
-<img src="./dashboard.png" alt="Wazuh Dashboard" width="100%">
+![Wazuh Dashboard](dashboard.png)
