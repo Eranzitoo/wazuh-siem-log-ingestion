@@ -22,7 +22,7 @@ $ docker-compose up -d
 ```
 
 The environment takes about 1 minute to get up (depending on your Docker host) for the first time since Wazuh Indexer must be started for the first time and the indexes and index patterns must be generated.
-# Wazuh SIEM Deployment & tion 
+# Wazuh SIEM Deployment & Log Ingestion 🛡️ 
 
 Este projeto documenta a implementação de uma solução de monitoramento de segurança centralizada (SIEM) utilizando **Wazuh 4.10.0** e **Docker** em ambiente **Arch Linux**. O laboratório faz parte da formação em CyberSecurity (Google/Coursera).
 
@@ -34,6 +34,8 @@ Configurar um pipeline de ingestão de logs históricos para análise de eventos
 - **SIEM:** Wazuh 4.10.0
 - **Containerização:** Docker & Docker Compose
 - **Ferramentas:** Bash, XML Configuration, YAML.
+
+![Wazuh Dashboard](./dashboard.png)
 
 ## 🔧 Troubleshooting
 Durante a implementação, resolvi os seguintes desafios técnicos:
