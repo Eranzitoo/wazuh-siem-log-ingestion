@@ -35,8 +35,6 @@ Configurar um pipeline de ingestão de logs históricos para análise de eventos
 - **Containerização:** Docker & Docker Compose
 - **Ferramentas:** Bash, XML Configuration, YAML.
 
-![Wazuh Dashboard](./dashboard.png)
-
 ## 🔧 Troubleshooting
 Durante a implementação, resolvi os seguintes desafios técnicos:
 
@@ -56,3 +54,8 @@ Os logs são extraídos no host e montados no container conforme o esquema:
 
 ---
 *Projeto desenvolvido por Eric Andrey dos Santos como parte dos estudos de ADS e CyberSecurity.*
+
+# Meu Projeto Wazuh
+
+Aqui está o dashboard que configurei: 
+![Wazuh Dashboard](./dashboard.png)
